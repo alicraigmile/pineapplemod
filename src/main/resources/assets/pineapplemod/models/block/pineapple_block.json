@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pineapplemod:blocks/pineapple2bottom",
+    "up": "pineapplemod:blocks/pineapple2top",
+    "north": "pineapplemod:blocks/pineapple2",
+    "east": "pineapplemod:blocks/pineapple2",
+    "south": "pineapplemod:blocks/pineapple2",
+    "west": "pineapplemod:blocks/pineapple2",
+    "particle": "pineapplemod:blocks/pineapple2bottom"
+  }
+}

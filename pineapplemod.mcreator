@@ -1,0 +1,150 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "PinappleOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pinapple_ore"
+    },
+    {
+      "name": "PineappleFoodEaten",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pineapple",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple"
+    },
+    {
+      "name": "PineappleArmor",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PineappleHelmetRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_helmet_recipe"
+    },
+    {
+      "name": "PineappleChestplateRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_chestplate_recipe"
+    },
+    {
+      "name": "PineappleLeggingsReciple",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_leggings_reciple"
+    },
+    {
+      "name": "PineappleBootsRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_boots_recipe"
+    },
+    {
+      "name": "PineappleBlockRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_block_recipe"
+    },
+    {
+      "name": "PineappleRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_recipe"
+    },
+    {
+      "name": "PineappleBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_block"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.pineapplemod.pineapple_armor_leggings": "Pineapple Armor Leggings",
+      "item.pineapplemod.pineapple_armor_boots": "Pineapple Armor Boots",
+      "item.pineapplemod.pineapple": "Pineapple",
+      "item.pineapplemod.pineapple_armor_helmet": "Pineapple Armor Helmet",
+      "block.pineapplemod.pinapple_ore": "Pineapple Ore",
+      "item.pineapplemod.pineapple_armor_chestplate": "Pineapple Armor Body",
+      "block.pineapplemod.pineapple_block": "Pineapple Block"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "pineapplemod",
+    "modName": "PineappleMod",
+    "version": "1.0.0",
+    "description": "Everything pineapple",
+    "author": "Ali Craigmile",
+    "websiteURL": "https://kaimoriginals.com/minecraft",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "com.kaimoriginals.minecraft.pineapplemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

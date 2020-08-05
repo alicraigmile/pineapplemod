@@ -1,0 +1,36 @@
+{
+  "group": "pineapplemod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "pineapplemod:pineapple"
+    },
+    "1": {
+      "item": "pineapplemod:pineapple"
+    },
+    "2": {
+      "item": "pineapplemod:pineapple"
+    },
+    "3": {
+      "item": "pineapplemod:pineapple"
+    },
+    "5": {
+      "item": "pineapplemod:pineapple"
+    },
+    "6": {
+      "item": "pineapplemod:pineapple"
+    },
+    "8": {
+      "item": "pineapplemod:pineapple"
+    }
+  },
+  "result": {
+    "item": "pineapplemod:pineapple_armor_leggings",
+    "count": 1
+  }
+}

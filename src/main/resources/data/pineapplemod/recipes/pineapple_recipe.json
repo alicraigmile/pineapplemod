@@ -1,0 +1,13 @@
+{
+  "group": "pineapplemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pineapplemod:pineapple_block"
+    }
+  ],
+  "result": {
+    "item": "pineapplemod:pineapple",
+    "count": 9
+  }
+}
