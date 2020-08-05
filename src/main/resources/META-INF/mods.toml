@@ -5,11 +5,11 @@ loaderVersion="[31,)"
 modId="pineapplemod"
 version="1.0.0"
 displayName="PineappleMod"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://kaimoriginals.com/minecraft"
+credits="Inspired by @alexanderdude13 and @gracegorgeous11"
+displayURL="https://github.com/alicraigmile/pineapplemod"
 authors="Ali Craigmile"
 description='''
-Everything pineapple
+All things pineapple
 '''
 
 [[dependencies.pineapplemod]]

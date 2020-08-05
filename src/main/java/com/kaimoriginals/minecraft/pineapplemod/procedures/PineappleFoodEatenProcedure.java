@@ -21,10 +21,9 @@ public class PineappleFoodEatenProcedure extends PineapplemodModElements.ModElem
 		}
 		Entity entity = (Entity) dependencies.get("entity");
 		if (entity instanceof PlayerEntity)
-			((PlayerEntity) entity).addExperienceLevel((int) 5);
+			((PlayerEntity) entity).addExperienceLevel((int) 10);
 		if (entity instanceof PlayerEntity && !entity.world.isRemote) {
-			((PlayerEntity) entity).sendStatusMessage(
-					new StringTextComponent((("Pineapple Power!") + "" + (null) + "" + (null) + "" + (null) + "" + (null) + "" + (null))), (true));
+			((PlayerEntity) entity).sendStatusMessage(new StringTextComponent("Pineapple Power!"), (true));
 		}
 	}
 }
